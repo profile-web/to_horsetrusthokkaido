@@ -92,14 +92,14 @@ html {
     color: #FF5722;
   }
   
-  .profile-card header span {
+  .profile-card header a {
     display: inline-block;
     text-align: center;
     position: relative;
     margin: 25px 30px;
   }
   
-  .profile-card header span:after {
+  .profile-card header a:after {
     position: absolute;
     content: "";
     bottom: 3px;
