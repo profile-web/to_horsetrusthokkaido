@@ -92,11 +92,13 @@ html {
     color: #FF5722;
   }
   
-  .top-logo {
+  .top-logo img {
     display: inline-block;
     text-align: center;
-    margin: 25px 30px;
+    margin: 25px 0;
     border-radius: 50%;
+    width: 200px;
+    height: 200px;
   }
   
   .profile-card .profile-bio {
@@ -112,6 +114,10 @@ html {
     opacity: 0;
     -webkit-animation: moveIn 1s 3.1s ease forwards;
     animation: moveIn 1s 3.1s ease forwards;
+  }
+
+  .profile-bio i {
+      color: #ff0202;
   }
   
   .profile-social-links {
