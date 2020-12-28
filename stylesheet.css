@@ -173,6 +173,10 @@ header {
   text-align: center;
 }
 
+.message_pages {
+  padding-top: 80px;
+}
+
 .message {
   padding: 15px 40px;
   background-color: #5dca88;
