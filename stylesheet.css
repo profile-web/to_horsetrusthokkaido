@@ -15,7 +15,6 @@ a {
   width: 100%;
   padding: 0 15px;
   margin: 0 auto;
-  visibility:hidden;
 }
 
 .top-wrapper {
@@ -36,6 +35,10 @@ a {
   opacity: 0.7;
   font-size: 16px;
   margin-bottom: 40px;
+}
+
+.hidden_wrapper {
+  visibility: hidden;
 }
 
 .btn-wrapper {
