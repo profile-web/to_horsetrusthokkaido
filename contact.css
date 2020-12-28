@@ -106,17 +106,16 @@ html {
     height: 180px;
     display: inline-block;
     float: right;
-    padding: 50px 20px 30px 20px;
+    padding: 0px 20px 30px 20px;
     background: #FFFFFF;
     color: #333333;
     margin-top: 50px;
-    text-align: center;
     opacity: 0;
     -webkit-animation: moveIn 1s 3.1s ease forwards;
     animation: moveIn 1s 3.1s ease forwards;
   }
 
-  .profile-bio i {
+  .profile-bio .fas {
       color: #ff0202;
   }
   
