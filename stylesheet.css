@@ -37,6 +37,10 @@ a {
   margin-bottom: 40px;
 }
 
+top-wrapper_pages {
+  padding: 180px 0 100px 0;
+}
+
 .hidden_wrapper {
   visibility: hidden;
 }
